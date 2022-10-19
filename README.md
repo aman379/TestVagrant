@@ -1,2 +1,0 @@
-# TestVagrant
-Assignment by TestVagrant
